@@ -1,0 +1,30 @@
+# Ignore All
+/*
+
+# Except:
+
+## Sources
+!/src
+
+## Gradle
+/.gradle
+!/*.gradle
+!/build.properties
+!/gradle.properties
+!/gradlew*
+!/gradle
+
+## GitHub
+!/.gitignore
+!/README*
+!/LICENSE*
+
+# Unwanted crap
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
